@@ -8,4 +8,3 @@ Check what is the stock date, send an email that contains the comparison of the 
 
 Used MailGun service and library in order to send the mails
 Since it's a free subscription, recipients have to be manually added - keep in mind if you try to run the code.
-I used an online API for currency conversions - the first Google result.
